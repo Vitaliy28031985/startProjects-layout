@@ -23,4 +23,4 @@ npm run build-prod
 ### Очистка папки dist
 ```shell
 npm run clear
-```
+```   jkj
