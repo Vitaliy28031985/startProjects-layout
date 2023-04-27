@@ -24,4 +24,3 @@ npm run build-prod
 ```shell
 npm run clear
 ```   
-аіаіа
